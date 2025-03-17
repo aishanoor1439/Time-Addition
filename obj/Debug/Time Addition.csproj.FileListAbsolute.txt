@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\Time Addition\Time-Addition\obj\Debug\Time Addition.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Time Addition\Time-Addition\obj\Debug\Time Addition.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Time Addition\Time-Addition\bin\Debug\Time Addition.exe.config
+C:\Users\ABC\source\repos\Time Addition\Time-Addition\bin\Debug\Time Addition.exe
+C:\Users\ABC\source\repos\Time Addition\Time-Addition\bin\Debug\Time Addition.pdb
+C:\Users\ABC\source\repos\Time Addition\Time-Addition\obj\Debug\Time Addition.exe
+C:\Users\ABC\source\repos\Time Addition\Time-Addition\obj\Debug\Time Addition.pdb
